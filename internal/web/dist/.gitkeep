@@ -1,1 +1,0 @@
-# Keeps //go:embed all:dist compilable before the frontend is built.
